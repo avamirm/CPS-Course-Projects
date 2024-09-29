@@ -1,3 +1,6 @@
 [submodule "IOT-Entrance-Control-System"]
 	path = IOT-Entrance-Control-System
 	url = git@github.com:avamirm/IOT-Entrance-Control-System.git
+[submodule "Motion-Based-Authentication"]
+	path = Motion-Based-Authentication
+	url = git@github.com:avamirm/Motion-Based-Authentication.git
