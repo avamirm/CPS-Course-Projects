@@ -1,0 +1,3 @@
+[submodule "IOT-Entrance-Control-System"]
+	path = IOT-Entrance-Control-System
+	url = git@github.com:avamirm/IOT-Entrance-Control-System.git
